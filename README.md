@@ -32,6 +32,3 @@ The labs cover fundamental concepts and practical skills in networking, includin
 - GNS3 network simulator  
 - Basic understanding of networking concepts and protocols  
 
-
-**Stelina Petriti**  
-- [GitHub: stelinna](https://github.com/stelinna)  
